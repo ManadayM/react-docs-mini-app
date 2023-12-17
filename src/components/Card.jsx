@@ -6,6 +6,7 @@ function Card() {
       {/* icon */}
       <FaRegFileAlt />
       {/* text */}
+      <p className="text-sm leading-tight font-semibold mt-5">Lorem ipsum dolor sit amet consectetur adipisicing.</p>
       {/* footer */}
       {/* footer/data */}
       {/* footer/tag */}
