@@ -1,8 +1,5 @@
-# React + Vite
+# Docs Mini App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The Docs Mini App is a small React project to brush up on some important concepts like _Thinking in React_ and _Animations using Framer Motion_.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Checkout commits of this repo to see how this app took its shape?
